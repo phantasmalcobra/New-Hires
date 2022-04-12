@@ -12,8 +12,6 @@ print(team_1)
 
 answ = input("Is there a new hire?: ")
 
-print(answ)
-
 if answ == "True":
   new_hire = str(input("Who is the new hire? "))
   rep = input("Is someone bring replaced? ")
